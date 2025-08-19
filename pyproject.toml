@@ -3,6 +3,6 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "patrickpackage-with-a-long-name"
+name = "patrickpackage"
 version = "0.0.1"
 dependencies = []
